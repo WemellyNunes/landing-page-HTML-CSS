@@ -9,7 +9,7 @@
 
 body{
     font-size: 100%;
-    background: linear-gradient(68.15deg, #000000 16.62%, #140141 85.61%);
+    background: linear-gradient(68.15deg, #482d6b 16.62%, #200463 85.61%);
 }
 
 .cabecalho{
@@ -31,17 +31,17 @@ body{
 
 .cabecalho-menu-item{
     font-family: 'Sarala', sans-serif;
-    color: #fff2e7;
+    color: #fafafa;
     font-weight: 400;
     font-size: 18px;
 }
 
 .cabecalho-menu-item:hover{
-    color: #b6a99f;
+    color: #a386ca;;
 }
 
 .conteudo{
-    border-top: 0.4px solid #fff2e7;
+    border-top: 0.4px solid #fafafa;
     margin-bottom: 48px;
 }
 
@@ -62,38 +62,35 @@ body{
     font-family: 'Righteous', cursive;
     font-weight: 400;
     font-size: 64px;
-    color: #fff2e7;
+    color: #f8f8f7;
 }
 
 .conteudo-principal-txt-subtitulo{
     font-family: 'Sarala', sans-serif;
-    color: #ecd6c4;
+    color: #f8f8f7;
     font-weight: 400;
     font-size: 24px;
 }
 
 .conteudo-principal-txt-btn {
-    background-color: #ecd6c4;
+    background-color: #d6bdf7;
     width: 180px;
     height: 60px;
     border: none;
     border-radius: 20px;
     box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.25);
     font-family: 'Sarala', sans-serif;
-    color: #ecd6c4;
     font-weight: 400;
     font-size: 24px;
-    color: #2f2325;
     cursor: pointer;
 }
 
 a {
-    color: #2f2325;
+    color: #190336;
 }
 
-
 .conteudo-principal-txt-btn:hover{
-    background-color: #b6a99f;
+    background-color: #a386ca;
 }
 
 .conteudo-principal-img{
@@ -110,30 +107,30 @@ a {
 }
 
 .conteudo-secundario-titulo{
-    border-top: 0.4px solid #fff2e7;
+    border-top: 0.4px solid #fdfdfc;
     padding-top: 48px;
     font-family: 'Righteous', cursive;
     font-weight: 400;
     font-size: 24px;
-    color: #fff2ef;
+    color: #fafafa;
     margin-bottom: 16px;
 }
 
 .conteudo-secundario-paragrafo{
     font-family: 'Sarala', sans-serif;
-    color: #ecd6c4;
+    color: #faf9f8;
     font-weight: 300;
     font-size: 18px;
 }
 
 .rodape{
     padding: 32px;
-    border-top: 0.4px solid #fff2e7;
+    border-top: 0.4px solid #ffffff;
 }
 .rodape-txt{
     text-align: center;
     font-family: 'Sarala', sans-serif;
-    color: #ecd6c4;
+    color: #f8f8f8;
     font-weight: 300;
     font-size: 15px;
 }
