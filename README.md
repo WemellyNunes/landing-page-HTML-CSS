@@ -2,5 +2,6 @@
 ## https://wemy-nunes.github.io/landing-page-HTML-CSS/ <img src="https://img.icons8.com/dusk/30/000000/cursor--v1.png"/>
 
 
-<img align="center" widht="30" hight="50" src="https://user-images.githubusercontent.com/109567488/211079306-124c5179-bd46-4bee-be00-458738b30aaa.png"/>
+![image](https://user-images.githubusercontent.com/109567488/211080128-2388b9cb-41f0-4084-b2c0-1fe538b2a6e7.png)
+
 
